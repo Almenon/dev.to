@@ -18,4 +18,4 @@
     ["transform-class-properties", { "spec": true }],
     [ "transform-react-jsx", { "pragma": "h" }]
   ]
-}
+} 
